@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shoe-parallax/static/css/main.8d865da0.chunk.css",
-    "main.js": "/shoe-parallax/static/js/main.13550c19.chunk.js",
-    "main.js.map": "/shoe-parallax/static/js/main.13550c19.chunk.js.map",
+    "main.js": "/shoe-parallax/static/js/main.2d527d70.chunk.js",
+    "main.js.map": "/shoe-parallax/static/js/main.2d527d70.chunk.js.map",
     "runtime-main.js": "/shoe-parallax/static/js/runtime-main.305398e2.js",
     "runtime-main.js.map": "/shoe-parallax/static/js/runtime-main.305398e2.js.map",
     "static/js/2.57f7be62.chunk.js": "/shoe-parallax/static/js/2.57f7be62.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.305398e2.js",
     "static/js/2.57f7be62.chunk.js",
     "static/css/main.8d865da0.chunk.css",
-    "static/js/main.13550c19.chunk.js"
+    "static/js/main.2d527d70.chunk.js"
   ]
 }
